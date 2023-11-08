@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <img align="center" alt="alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="alan-shell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://www.svgrepo.com/show/306596/powershell.svg)">
+  <img align="center" alt="alan-shell" height="30" width="40" src="PowerShell.svg">
 </div>
   
   ##
