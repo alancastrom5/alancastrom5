@@ -1,7 +1,5 @@
 ### Olá Sou o Dev Alan 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente sou desenvolvedor Front End ...
 
 <div style="display: inline_block"><br>
