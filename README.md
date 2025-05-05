@@ -68,10 +68,3 @@ Análise e Desenvolvimento de Sistemas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/SEU-USUARIO](https://github.com/alancastrom5))
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical"/>
-</div>
