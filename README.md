@@ -40,9 +40,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
 
 <h3 align="left">DB</h3>
 
@@ -62,7 +60,7 @@
 
 <h3 align="left">Contact</h3>
 
-[![Email Badge](https://img.shields.io/badge/e--mail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:he_rp@outlook.com)
+[![Email Badge](https://img.shields.io/badge/e--mail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:allancastrom5@icloud.com)
 
 <h1></h1>
 
