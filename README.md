@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre Mim
 
 - 👨‍💻 Atuando como Desenvolvedor Full Stack desde 2022
-- 🌐 Baseado em Barueri-SP | Híbrido
+- 🌐 Barueri-SP
 - ⚙️ Especializado em React, Next.js, Node.js, Docker, Firebase e mais
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas (UNINOVE – 2023)
 - 🎯 Apaixonado por tecnologia, automação e boas práticas de código
